@@ -10,6 +10,8 @@ El parcial nos pide que hagamos un codigo de una tienda, aparte, tambien nos pid
 ### Archivo .txt
 Es el archvio donde se realizó la descripción de problemas de nuestro código
 
+Los problemas que presentamos en su mayoría fueron de identación y sintaxis de python.
+
 
 
 
