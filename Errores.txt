@@ -1,0 +1,3 @@
+En el desarrollo del curso se nos presentaron errores de sintaxis, la mayoria de ellos pudimos resolverlos gracias a que nuestro editor, visual studio code, nos idicó en que linea estaban los errores de sintaxis entonces podiamos arreglar la linea.
+
+En este caso, ejecutabamos el código frecuentemente para comprobar si su funcionamiento era el adecuado, cada vez que nos saltaba un error de sintaxis lo corregiamos y comprobabamos que todo estuviera funcionando bien.
