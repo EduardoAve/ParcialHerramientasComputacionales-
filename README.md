@@ -12,6 +12,16 @@ Es el archvio donde se realizó la descripción de problemas de nuestro código
 
 Los problemas que presentamos en su mayoría fueron de identación y sintaxis de python.
 
+### Desarrollo
 
+Nuestro programa recibe como entrada los datos del usuario:
+
+1. Nombre 
+2. Identificación
+3. Estudiante o profesor
+4. Beca
+5. Producto que comprará
+
+Retorna el precio del artículo basandose en la información anterior
 
 
